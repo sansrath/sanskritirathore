@@ -1,4 +1,4 @@
-# sanskritirathore
+cd cd# sanskritirathore
 this is my first git repository
 <br>
-Author - sanskriti
+Author - sanskriti rathore
